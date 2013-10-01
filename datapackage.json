@@ -1,0 +1,34 @@
+{
+	"name": "delitos-costa-rica",
+	"datapackage_version": "1.0-beta.5",
+	"title": "Delitos en Costa Rica",
+	"description": "Delitos en Costa Rica, por cantón, enero 2010 - diciembre 2011.",
+	"version": "0.0.1",
+	"keywords": [
+		"costa rica",
+		"delitos",
+		"criminales",
+		"policia"
+	],
+	"licenses": [
+		{
+			"id": "odc-by",
+			"url": "http://opendatacommons.org/licenses/by/1.0/",
+			"name": "Open Data Commons Attribution License",
+			"version": "1.0"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Matthew Caruana Galizia",
+			"email": "m@m.cg",
+			"web": "http://m.cg/"
+		}
+	],
+	"resources": [
+		{
+			"path": "data/csv/delitos.csv",
+			"format": "csv"
+		}
+	]
+}
